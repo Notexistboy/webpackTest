@@ -1,0 +1,8 @@
+body{
+  background-color: #ccc;
+}
+.photo{
+  background-image: url(../image/xxx.jpg);
+  width:466px;
+  height:453px;
+}
